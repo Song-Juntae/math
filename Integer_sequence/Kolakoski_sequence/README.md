@@ -1,1 +1,1 @@
-[Kolakoski sequence](https://www.youtube.com/watch?v=co5sOgZ3XcM)
+[![Kolakoski sequence](https://img.youtube.com/vi/co5sOgZ3XcM/0.jpg)](https://www.youtube.com/watch?v=co5sOgZ3XcM)
