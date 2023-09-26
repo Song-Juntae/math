@@ -1,0 +1,1 @@
+[Kolakoski sequence](https://www.youtube.com/watch?v=co5sOgZ3XcM)
