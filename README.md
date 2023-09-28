@@ -19,3 +19,4 @@
 > 2, 1 로 시작하여 앞의 숫자의 합이 뒤의 숫자가 되는 수열. 피보나치는 1, 1로 시작한다면, 루카 숫자는 2, 1로 시작하고, 황금비와 관련이 있어요.
 [![유튜브 링크 - Lucas number](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Lucas_number_spiral.svg/1920px-Lucas_number_spiral.svg.png)](https://youtu.be/Ipp8tCgoV1g)*유튜브 링크 - Lucas number*   
 [루카 숫자 python 구현](https://github.com/Song-Juntae/math/blob/main/Integer_sequence/Lucas_number/Lucas_number.ipynb)
+
