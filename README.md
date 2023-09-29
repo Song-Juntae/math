@@ -2,7 +2,7 @@
 수학
 
 ## 정수열
-> [![oeis 링크 - 정수열 위키](https://oeis.org/banner2021.jpg)](https://www.youtube.com/watch?v=co5sOgZ3XcM)*oeis 링크 - 정수열 위키*     
+> [![oeis 링크 - 정수열 위키](https://oeis.org/banner2021.jpg)](https://oeis.org/)*oeis 링크 - 정수열 위키*     
 [core(중요한) 수열 oeis 목록](https://oeis.org/wiki/Index_to_OEIS:_Section_Cor#core)   
 [notable 수열 위키 목록](https://en.wikipedia.org/wiki/List_of_integer_sequences)
 
