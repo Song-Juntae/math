@@ -22,5 +22,10 @@
 
 ### 실베스터 수열
 > 이전항들의 곱의 값에서 1을 더한 값으로 이루어진 수열. 이 수열은 값이 엄청 빨리 커지는데, 그 값들이 소수이고, 알고리즘 분야에서 쓰는 게 있다는게 아직 모르겠어용.
-[![유튜브 링크 - 실베스터 수열](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Sylvester-square.svg/1024px-Sylvester-square.svg.png)](https://youtu.be/pP4o6I2OJTU)*유튜브 링크 - Lucas number*   
+[![유튜브 링크 - 실베스터 수열](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Sylvester-square.svg/1024px-Sylvester-square.svg.png)](https://youtu.be/pP4o6I2OJTU)*유튜브 링크 - Sylvester's sequence*   
 [실베스터 수열 python 구현](https://github.com/Song-Juntae/math/blob/main/Integer_sequence/Sylvester's_sequence/Sylvester's_sequence.ipynb)
+
+### 트리보나치 수열
+> 이전 세 항의 합의 값이 다음 수가 되는 수열. 피보나치는 2개의 숫자의 합이라면 이 수열은 3개이며, Rauzy Fractal과 관련이 있다고 하네용. 
+[![유튜브 링크 - 트리보나치 수열](https://upload.wikimedia.org/wikipedia/commons/9/93/TRIBONACCI.jpg)](https://youtu.be/fMJflV_GUpU)*유튜브 링크 - Tribonacci Numbers*   
+[트리보나치 수열 python 구현](https://github.com/Song-Juntae/math/blob/main/Integer_sequence/Tribonacci_numbers/Tribonacci_numbers.ipynb)
