@@ -29,3 +29,8 @@
 > 이전 세 항의 합의 값이 다음 수가 되는 수열. 피보나치는 2개의 숫자의 합이라면 이 수열은 3개이며, Rauzy Fractal과 관련이 있다고 하네용. 
 [![유튜브 링크 - 트리보나치 수열](https://upload.wikimedia.org/wikipedia/commons/9/93/TRIBONACCI.jpg)](https://youtu.be/fMJflV_GUpU)*유튜브 링크 - Tribonacci Numbers*   
 [트리보나치 수열 python 구현](https://github.com/Song-Juntae/math/blob/main/Integer_sequence/Tribonacci_numbers/Tribonacci_numbers.ipynb)
+
+### 폴리오미노 수열
+> n개의 정사각형들이 서로 최소한 1개의 변을 공유하여 만들어지는 다각형 갯수. 퍼즐, 테트리스랑 관련이 있고, 물리학, 고분자 화학에서 쓰임이 있다는뎅 
+[![유튜브 링크 - 폴리오미노 수열](https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/All_18_Pentominoes.svg/1920px-All_18_Pentominoes.svg.png)](https://youtu.be/wZ1E_CM7MqA)*유튜브 링크 - Number of free polyominoes*   
+[폴리오미노 수열 python 구현](https://github.com/Song-Juntae/math/blob/main/Integer_sequence/Polyominoes/Polyominoes.ipynb)
