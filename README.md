@@ -34,3 +34,8 @@
 > n개의 정사각형들이 서로 최소한 1개의 변을 공유하여 만들어지는 다각형 갯수. 퍼즐, 테트리스랑 관련이 있고, 물리학, 고분자 화학에서 쓰임이 있다는뎅 
 [![유튜브 링크 - 폴리오미노 수열](https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/All_18_Pentominoes.svg/1920px-All_18_Pentominoes.svg.png)](https://youtu.be/wZ1E_CM7MqA)*유튜브 링크 - Number of free polyominoes*   
 [폴리오미노 수열 python 구현](https://github.com/Song-Juntae/math/blob/main/Integer_sequence/Polyominoes/Polyominoes.ipynb)
+
+### 카탈랑 수
+> 다양한 조합 문제에 관한 수열. 뭔가 조합에 관련된 것데 너무 어려워
+[![유튜브 링크 - 카탈랑 수](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Noncrossing_partitions_5.svg/800px-Noncrossing_partitions_5.svg.png)](https://youtu.be/s3-TRxZPa5E)*유튜브 링크 - Catalan number*   
+[카탈랑 수 python 구현](https://github.com/Song-Juntae/math/blob/main/Integer_sequence/Catalan_number/Catalan_number.ipynb)
