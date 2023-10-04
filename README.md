@@ -44,3 +44,8 @@
 > 하나의 집합을 분할하는 방법의 수. 예를 들어, 원소가 하나인 집합의 벨 수는 1, 원소가 3개인 집합의 벨 수는 5입니다. 스털링 수랑 관련이 있고, 조합이나 확률 분야에 관련이 있는데 어렵네용.
 [![유튜브 링크 - 벨 수](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Bell_numbers_subset_partial_order.svg/1920px-Bell_numbers_subset_partial_order.svg.png)](https://youtu.be/GFvhOiAS97k)*유튜브 링크 - Bell number*   
 [벨 수 python 구현](https://github.com/Song-Juntae/math/blob/main/Integer_sequence/Bell_number/Bell_number.ipynb)
+
+### 지그재그 수
+> ...
+[![유튜브 링크 - 지그재그 수](https://upload.wikimedia.org/wikipedia/commons/0/04/Bernoulli-zigzag.jpg)](https://youtu.be/AuA2EAgAegE)*유튜브 링크 - Euler zigzag numbers*   
+[지그재그 수 python 구현](https://github.com/Song-Juntae/math/blob/main/Integer_sequence/Euler_zigzag_numbers/Euler_zigzag_numbers.ipynb)
