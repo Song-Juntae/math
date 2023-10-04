@@ -46,6 +46,6 @@
 [벨 수 python 구현](https://github.com/Song-Juntae/math/blob/main/Integer_sequence/Bell_number/Bell_number.ipynb)
 
 ### 오일러 지그재그 수
-> 각 항목이 이전 항목보다 교대로 크거나 작도록 해당 숫자의 순열. 아직 이해가 안되요. 영상자료를 아직 찾지 못했슴당
+> 집합에서 각 항목이 이전 항목보다 교대로 크거나 작도록 순서를 짜는 방법의 수를 나타낸 수열. 지그재그 수라고 해서 직관적으로 수열이 작거나 크거나를 반복할 줄 알았는데, 그게 아니라 n개의 원소를 가진 집합에서 지그재그로 만들수 있는 조합?의 수를 수열를 말하는 거더라구용. 영상자료를 아직 찾지 못했슴당
 [![위키 링크 - 오일러 지그재그 수](https://upload.wikimedia.org/wikipedia/commons/0/04/Bernoulli-zigzag.jpg)](https://en.wikipedia.org/wiki/Alternating_permutation)*위키 링크 - Euler zigzag numbers*   
 [오일러 지그재그 수 python 구현](https://github.com/Song-Juntae/math/blob/main/Integer_sequence/Euler_zigzag_numbers/Euler_zigzag_numbers.ipynb)
