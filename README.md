@@ -45,7 +45,7 @@
 [![유튜브 링크 - 벨 수](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Bell_numbers_subset_partial_order.svg/1920px-Bell_numbers_subset_partial_order.svg.png)](https://youtu.be/GFvhOiAS97k)*유튜브 링크 - Bell number*   
 [벨 수 python 구현](https://github.com/Song-Juntae/math/blob/main/Integer_sequence/Bell_number/Bell_number.ipynb)
 
-### 지그재그 수
+### 오일러 지그재그 수
 > 각 항목이 이전 항목보다 교대로 크거나 작도록 해당 숫자의 순열. 아직 이해가 안되요. 영상자료를 아직 찾지 못했슴당
-[![위키 링크 - 지그재그 수](https://upload.wikimedia.org/wikipedia/commons/0/04/Bernoulli-zigzag.jpg)](https://en.wikipedia.org/wiki/Alternating_permutation)*위키 링크 - Euler zigzag numbers*   
-[지그재그 수 python 구현](https://github.com/Song-Juntae/math/blob/main/Integer_sequence/Euler_zigzag_numbers/Euler_zigzag_numbers.ipynb)
+[![위키 링크 - 오일러 지그재그 수](https://upload.wikimedia.org/wikipedia/commons/0/04/Bernoulli-zigzag.jpg)](https://en.wikipedia.org/wiki/Alternating_permutation)*위키 링크 - Euler zigzag numbers*   
+[오일러 지그재그 수 python 구현](https://github.com/Song-Juntae/math/blob/main/Integer_sequence/Euler_zigzag_numbers/Euler_zigzag_numbers.ipynb)
