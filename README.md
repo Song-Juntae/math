@@ -63,4 +63,4 @@
 > 주어진 수의 직선 절단으로 만들 수 있는 디스크(피자, 팬케이크) 조각의 최대 수. 중심다각수이고, 삼각수에 1을 더하면 만들 수 있어용.
 [![유튜브 링크 -  게으른 요리사의 수열](https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Central_polygonal_numbers.svg/800px-Central_polygonal_numbers.svg.png)](https://www.youtube.com/shorts/_sJwKtl8EOA?feature=share)   
 *유튜브 링크 - Lazy caterer's sequence*   
-[게으른 요리사의 수열 python 구현](https://github.com/Song-Juntae/math/blob/main/Integer_sequence/central_polygonal_numbers/central_polygonal_numbers.ipynb)
+[게으른 요리사의 수열 python 구현](https://github.com/Song-Juntae/math/blob/main/Integer_sequence/Central_polygonal_numbers/Central_polygonal_numbers.ipynb)
