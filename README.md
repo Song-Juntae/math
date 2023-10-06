@@ -64,3 +64,9 @@
 [![유튜브 링크 -  게으른 요리사의 수열](https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Central_polygonal_numbers.svg/800px-Central_polygonal_numbers.svg.png)](https://www.youtube.com/shorts/_sJwKtl8EOA?feature=share)   
 *유튜브 링크 - Lazy caterer's sequence*   
 [게으른 요리사의 수열 python 구현](https://github.com/Song-Juntae/math/blob/main/Integer_sequence/Central_polygonal_numbers/Central_polygonal_numbers.ipynb)
+
+###  펠 수
+> 0과 1로 시작해서 이전항을 2배하고 다시 이전항을 더해서 구하는 수. 피보나치 수열이 황금비로 수렴한다면, 펠 수는 실버 비로 수렴하는데, 더 재미있는건 펠 수의 모든 소수항은 소수라는 것 입니당.
+[![유튜브 링크 -  펠 수](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Silver_spiral_approximation.svg/1920px-Silver_spiral_approximation.svg.png)](https://youtu.be/7lRgeTmxnlg)   
+*유튜브 링크 - Pell number*   
+[펠 수 python 구현](https://github.com/Song-Juntae/math/blob/main/Integer_sequence/Pell_number/Pell_number.ipynb)
