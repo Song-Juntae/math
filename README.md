@@ -69,4 +69,10 @@
 > 0과 1로 시작해서 이전항을 2배하고 다시 이전항을 더해서 구하는 수. 피보나치 수열이 황금비로 수렴한다면, 펠 수는 실버 비로 수렴하는데, 더 재미있는건 펠 수의 모든 소수항은 소수라는 것 입니당.
 [![유튜브 링크 -  펠 수](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Silver_spiral_approximation.svg/1920px-Silver_spiral_approximation.svg.png)](https://youtu.be/7lRgeTmxnlg)   
 *유튜브 링크 - Pell number*   
-[펠 수 python 구현](https://github.com/Song-Juntae/math/blob/main/Integer_sequence/Pell_number/Pell_number.ipynb)
+[펠 수 python 구현](https://github.com/Song-Juntae/math/blob/main/Integer_sequence/Pell_number/Pell_number.ipynb)   
+
+###  완전수열
+> 어떤 집합의 모든 요소들이 자신의 처음 위치와 다른 조합의 갯수. 재미있는건 크기가 4 이상의 집합에서 모든 요소의 위치가 바뀐 경우의 확률이 오일러 수와 관련이 있다는 것이예용.
+[![유튜브 링크 -  완전수열](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Derangement4.png/1280px-Derangement4.png)](https://youtu.be/pbXg5EI5t4c)   
+*유튜브 링크 - Derangement*   
+[완전수열 python 구현](https://github.com/Song-Juntae/math/blob/main/Integer_sequence/Derangement/Derangement.ipynb)
