@@ -76,3 +76,9 @@
 [![유튜브 링크 -  완전수열](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Derangement4.png/1280px-Derangement4.png)](https://youtu.be/pbXg5EI5t4c)   
 *유튜브 링크 - Derangement*   
 [완전수열 python 구현](https://github.com/Song-Juntae/math/blob/main/Integer_sequence/Derangement/Derangement.ipynb)
+
+###  페르마 수
+> 음이 아닌 정수 n에 대해서 2<sup>2<sup>n</sup></sup> + 1 의 형태의 수열. 페르마는 4번째까지 계산하고 이 식을 소수에 대한 식이라고 이야기 했는뎅 오일러가 5번쨰 수를 계산해서 아니라고 밝히고, 이후 숫자도 소수가 아니예용. 재미있는건 이 식은 정n각형에 관련이 있고, 확률적으로 소수를 판별하는데 쓸 수 있다고 하네용.
+[![유튜브 링크 -  페르마 수](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Constructible_polygon_set.svg/1024px-Constructible_polygon_set.svg.png)](https://youtu.be/5NmSvKtaDAs)   
+*유튜브 링크 - Fermat_number*   
+[페르마 수 python 구현](https://github.com/Song-Juntae/math/blob/main/Integer_sequence/Fermat_number/Fermat_number.ipynb)
