@@ -82,3 +82,9 @@
 [![유튜브 링크 -  페르마 수](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Constructible_polygon_set.svg/1024px-Constructible_polygon_set.svg.png)](https://youtu.be/5NmSvKtaDAs)   
 *유튜브 링크 - Fermat_number*   
 [페르마 수 python 구현](https://github.com/Song-Juntae/math/blob/main/Integer_sequence/Fermat_number/Fermat_number.ipynb)
+
+###  완전수
+> 자기 자신을 제외한 양의 약수(진약수)를 더했을 때 자기 자신이 되는 양의 정수. 2<sup>n</sup> + 1 값이 소수일 때 n은 소수인데 이를 메르센 소수라고 합니당. 완전수의 약수에는 반드시 하나의 메르센 소수가 포함된다고 하네용.
+[![유튜브 링크 -  완전수](https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Perfect_number_Cuisenaire_rods_6_exact.svg/1280px-Perfect_number_Cuisenaire_rods_6_exact.svg.png)](https://youtu.be/T0xKHwQH-4I)   
+*유튜브 링크 - Perfect number*   
+[완전수 python 구현](https://github.com/Song-Juntae/math/blob/main/Integer_sequence/Perfect_number/Perfect_number.ipynb)
