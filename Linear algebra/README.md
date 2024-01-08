@@ -1,5 +1,9 @@
 Linear algebra
 
+vector : (벡터, Euclidean vector) 크기와 방향을 가지고 있는 것, velocity (속도), $ \vec{V}= (5, 0), \vec{AB} = 5_E$
+
+scalar : (스칼라, 스케일러) 크기만 가지고 있는 것, speed (속력)
+
 Unit 1: Vectors and spaces
 Vectors: Vectors and spaces
 Linear combinations and spans: Vectors and spaces
