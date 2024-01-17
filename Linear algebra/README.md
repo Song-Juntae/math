@@ -1,30 +1,36 @@
-Linear algebra
+## Linear algebra
 
-vector : (벡터, Euclidean vector) 크기와 방향을 가지고 있는 것, velocity (속도), $ \vec{V}= (5, 0), \vec{AB} = 5_E$
+### khanacademy linear algebra
 
-scalar : (스칼라, 스케일러) 크기만 가지고 있는 것, speed (속력)
+#### Unit 1: Vectors and spaces
+    Vectors
+        vector : (벡터, Euclidean vector) magnitude(크기)와 direction(방향)을 가지고 있는 것, velocity (속도), $ \vec{V}= (5, 0), \vec{AB} = 5_E$
 
-Unit 1: Vectors and spaces
-Vectors: Vectors and spaces
-Linear combinations and spans: Vectors and spaces
-Linear dependence and independence: Vectors and spaces
-Subspaces and the basis for a subspace: Vectors and spaces
-Vector dot and cross products: Vectors and spaces
-Matrices for solving systems by elimination: Vectors and spaces
-Null space and column space: Vectors and spaces
+        equivalent : (동등한)
 
-Unit 2: Matrix transformations
-Functions and linear transformations: Matrix transformations
-Linear transformation examples: Matrix transformations
-Transformations and matrix multiplication: Matrix transformations
-Inverse functions and transformations: Matrix transformations
-Finding inverses and determinants: Matrix transformations
-More determinant depth: Matrix transformations
-Transpose of a matrix: Matrix transformations
+        scalar : (스칼라, 스케일러) 크기만 가지고 있는 것, speed (속력)
 
-Unit 3: Alternate coordinate systems (bases)
-Orthogonal complements: Alternate coordinate systems (bases)
-Orthogonal projections: Alternate coordinate systems (bases)
-Change of basis: Alternate coordinate systems (bases)
-Orthonormal bases and the Gram-Schmidt process: Alternate coordinate systems (bases)
-Eigen-everything
+        real coordinate space : (실좌표공간, real coordinate n-space, n-dimensional real coordinate space, n차원 실수 공간)
+
+
+    Linear combinations and spans
+    Linear dependence and independence
+    Subspaces and the basis for a subspace
+    Vector dot and cross products
+    Matrices for solving systems by elimination
+    Null space and column space
+
+#### Unit 2: Matrix transformations
+    Functions and linear transformations
+    Linear transformation examples
+    Transformations and matrix multiplication
+    Inverse functions and transformations
+    Finding inverses and determinants
+    More determinant depth
+    Transpose of a matrix
+
+#### Unit 3: Alternate coordinate systems (bases)
+    Orthogonal complements
+    Orthogonal projections
+    Change of basis
+    Orthonormal bases and the Gram-Schmidt process
