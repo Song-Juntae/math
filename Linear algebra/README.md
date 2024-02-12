@@ -12,7 +12,6 @@
 
         real coordinate space : (실좌표공간, real coordinate n-space, n-dimensional real coordinate space, n차원 실수 공간)
 
-
     Linear combinations and spans
     Linear dependence and independence
     Subspaces and the basis for a subspace
