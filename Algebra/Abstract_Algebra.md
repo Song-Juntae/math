@@ -1,6 +1,6 @@
 # Abstract Algebra
 
-Abstract algebra is a branch of mathematics which studies algebraic structures and algebraic systems.
+Abstract algebra is a branch of mathematics which studies **algebraic structures** and **algebraic systems**.
 
 It can be roughly described as the study of sets equipped with operations.
 
