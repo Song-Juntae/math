@@ -10,7 +10,11 @@
 
         scalar : (스칼라, 스케일러) 크기만 가지고 있는 것, speed (속력)
 
-        real coordinate space : (실좌표공간, real coordinate n-space, n-dimensional real coordinate space, n차원 실수 공간)
+        n-dimensional real coordinate space : (실좌표공간, real coordinate n-space, n-dimensional real coordinate space, n차원 실수 공간)
+
+        n-tuple : 셀 수 있는 수량의 순서 있는 열거
+
+        2-dimensional real coordinate space : all possive real value 2-tuple, 가능한 모든 실수의 2-튜플
 
     Linear combinations and spans
     Linear dependence and independence
