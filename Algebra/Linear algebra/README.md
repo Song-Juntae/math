@@ -2,19 +2,66 @@
 
 ### khanacademy linear algebra
 
+[Linear algebra 1](https://www.youtube.com/playlist?list=PLHS0dhO-KTu5RFTG_8a_ggtFID1hmDa-M)
+
 #### Unit 1: Vectors and spaces
-    Vectors
-        vector : (벡터, Euclidean vector) magnitude(크기)와 direction(방향)을 가지고 있는 것, velocity (속도), $ \vec{V}= (5, 0), \vec{AB} = 5_E$
 
-        equivalent : (동등한)
+Vectors
 
-        scalar : (스칼라, 스케일러) 크기만 가지고 있는 것, speed (속력)
+vector : (벡터, Euclidean vector) magnitude(크기)와 direction(방향)을 가지고 있는 것, velocity (속도), $ \vec{V}= (5, 0), \vec{AB} = 5_E$
 
-        n-dimensional real coordinate space : (실좌표공간, real coordinate n-space, n-dimensional real coordinate space, n차원 실수 공간)
+equivalent : (동등한)
 
-        n-tuple : 셀 수 있는 수량의 순서 있는 열거
+scalar : (스칼라, 스케일러) 크기만 가지고 있는 것, speed (속력)
 
-        2-dimensional real coordinate space : all possive real value 2-tuple, 가능한 모든 실수의 2-튜플
+n-dimensional real coordinate space : (실좌표공간, real coordinate n-space, n-dimensional real coordinate space, n차원 실수 공간)
+
+n-tuple : 셀 수 있는 수량의 순서 있는 열거
+
+2-dimensional real coordinate space : all possive real value 2-tuple, 가능한 모든 실수의 2-튜플
+
+standard position : 기준점
+
+unit vector : 단위 벡터
+
+column vector notation : 
+
+$
+\begin{equation}
+    a = 
+   \begin{bmatrix} 
+        4
+        \\
+        2
+   \end{bmatrix} 
+\end{equation}
+$
+
+unit vector notation : 2차원 단위벡터 $i, j$가 아래와 같다면 2차원 벡터 a는 $4i + 2j$ 이다
+
+$
+\begin{equation}
+    i = 
+   \begin{bmatrix} 
+        1
+        \\
+        0
+   \end{bmatrix} 
+\end{equation}
+$
+
+$
+\begin{equation}
+    j =
+   \begin{bmatrix} 
+        0
+        \\
+        1
+   \end{bmatrix} 
+\end{equation}
+$
+
+
 
     Linear combinations and spans
     Linear dependence and independence
