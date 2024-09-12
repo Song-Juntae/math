@@ -61,6 +61,11 @@ $
 \end{equation}
 $
 
+position vector : 위치벡터, 좌표의 원점 0에서 시작하는 벡터
+
+set of colinear vector : 동일한 직선 상의 벡터의 집합
+
+다차원의 vector를 모두 지나는 직선의 방정식
 
 
     Linear combinations and spans
