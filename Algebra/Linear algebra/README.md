@@ -67,6 +67,11 @@ set of colinear vector : 동일한 직선 상의 벡터의 집합
 
 다차원의 vector를 모두 지나는 직선의 방정식
 
+Linear Combination : 벡터 더하기
+
+Span : vector의 모든 선형결합을 통해 만들 수 있는 공간
+
+기저 :
 
     Linear combinations and spans
     Linear dependence and independence
